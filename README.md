@@ -38,3 +38,5 @@
 1. git branch (print_15 criando uma nova branch)
 2. git checkout (print_15 mudando para a nova branch)
 3. git status (print_15 informando que existem mudanças sem stage)
+
+- git log (print_16)
